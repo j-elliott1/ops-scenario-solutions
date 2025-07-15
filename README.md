@@ -8,6 +8,10 @@ This collection showcases:
 - Real-world-ready operational playbooks
 
 > ⚠️ These are **conceptual deliverables** based on hypothetical scenarios and should not be reused for commercial or organizational gain without consent.
+> ## Scenario Source
+
+The three scenarios showcased in this repository were provided as part of a professional assessment task. The original scenario prompts document is included in this repository for transparency.
+
 
 ---
 
