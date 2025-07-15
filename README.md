@@ -1,3 +1,6 @@
+![Ops Scenario Solutions Header](./ops-scenario-header.png)
+
+
 # Ops-Scenario-Solutions
 
 Welcome to my repository of strategic operations scenarios and professional responses.
