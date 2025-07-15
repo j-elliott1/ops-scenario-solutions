@@ -11,10 +11,10 @@ This collection showcases:
 - Real-world-ready operational playbooks
 
 > ⚠️ These are **conceptual deliverables** based on hypothetical scenarios and should not be reused for commercial or organizational gain without consent.
-> ## Scenario Source
+> 
 
-The three scenarios showcased in this repository were provided as part of a professional assessment task. The original scenario prompts document is included in this repository for transparency.
-
+## Why This Repo?
+These were originally completed as part of a professional assessment exercise. Rather than let them sit idle, I'm sharing them to demonstrate my analytical skills, operations knowledge, and practical documentation abilities.
 
 ---
 
@@ -26,8 +26,19 @@ The three scenarios showcased in this repository were provided as part of a prof
 
 ---
 
-## Why This Repo?
-These were originally completed as part of a professional assessment exercise. Rather than let them sit idle, I'm sharing them to demonstrate my analytical skills, operations knowledge, and practical documentation abilities.
+## Scenario Source
+
+The three scenarios showcased in this repository were provided as part of a professional assessment task. The original scenario prompts document is included in this repository for transparency.
+
+---
+
+# AI Collaboration Disclosure
+
+These scenario responses were developed with the assistance of AI (ChatGPT by OpenAI) as part of an iterative brainstorming, editing, and polishing process. All final decisions, content direction, and submissions were reviewed and approved by me.
+
+This collaboration reflects my ability to leverage modern tools ethically and effectively to produce high-quality, well-reasoned deliverables.
+
+> ⚠️ These documents are for educational, demonstrative, and portfolio purposes only. They do not reflect the internal materials or strategies of any company or employer.
 
 ---
 
