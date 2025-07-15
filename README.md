@@ -17,14 +17,9 @@ The three scenarios showcased in this repository were provided as part of a prof
 
 ## Scenarios Included
 
-### 📌 Legacy Tool Replacement Strategy
-- Problem breakdown, tool comparison, and replacement roadmap
-
-### 📌 Manufacturing Bottleneck Analysis
-- Root cause tree, resource assessment, and solution deployment
-
-### 📌 SOP Development
-- Process definition, standardization template, and rollout approach
+- [📄 Scenario 1: Manufacturing Bottleneck Analysis](./Scenario-1_Manufacturing-Bottleneck.pdf)
+- [📄 Scenario 2: Legacy ERP Stabilization](./Scenario-2_Legacy-ERP-Stabilization.pdf)
+- [📄 Scenario 3: Global SOP Program Build-Out](./Scenario-3_Global-SOP-Program.pdf)
 
 ---
 
