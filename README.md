@@ -32,7 +32,7 @@ The three scenarios showcased in this repository were provided as part of a prof
 
 ---
 
-# AI Collaboration Disclosure
+## AI Collaboration Disclosure
 
 These scenario responses were developed with the assistance of AI (ChatGPT by OpenAI) as part of an iterative brainstorming, editing, and polishing process. All final decisions, content direction, and submissions were reviewed and approved by me.
 
