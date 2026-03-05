@@ -10,7 +10,7 @@ This collection showcases:
 - Problem-solving under constraints
 - Real-world-ready operational playbooks
 
-> ⚠️ These are **conceptual deliverables** based on hypothetical scenarios and should not be reused for commercial or organizational gain without consent.
+> These are **conceptual deliverables** based on hypothetical scenarios and should not be reused for commercial or organizational gain without consent.
 > 
 
 ## Why This Repo?
@@ -38,7 +38,7 @@ These scenario responses were developed with the assistance of AI (ChatGPT by Op
 
 This collaboration reflects my ability to leverage modern tools ethically and effectively to produce high-quality, well-reasoned deliverables.
 
-> ⚠️ These documents are for educational, demonstrative, and portfolio purposes only. They do not reflect the internal materials or strategies of any company or employer.
+> These documents are for educational, demonstrative, and portfolio purposes only. They do not reflect the internal materials or strategies of any company or employer.
 
 ---
 
